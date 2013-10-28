@@ -1,0 +1,9 @@
+{
+   "name"        : "File upload",
+   "description" : "Allows the ./upload to be used as a file upload directory.",
+   "homepage"    : "https://github.com/aletzo/file-upload",
+   "author"      : "aletzo",
+   "version"     : "0.0.1",
+   "git"         : "https://github.com/aletzo/file-upload.git",
+   "packages"    : {}
+}
